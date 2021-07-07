@@ -3,7 +3,7 @@ from urllib.parse import urlencode
 from Scraperapi.links_generator import links_generator
 
 def ScraperAPI():
-    API_KEY = 'd953019d893d570c75ab356c8a218a12'
+    API_KEY = '99798ae7ce6618bc858988cbeba3fee8'
     CONCURRENT_REQUESTS = 50
     CONCURRENT_REQUESTS_IP = 50
     RETRY_TIMES = 5
